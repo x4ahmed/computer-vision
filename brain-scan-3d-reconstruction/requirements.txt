@@ -1,0 +1,17 @@
+numpy
+scipy
+matplotlib
+opencv-python
+scikit-image
+tifffile
+Pillow
+napari
+jupyter
+numpy
+scipy
+matplotlib
+opencv-python
+scikit-image
+tifffile
+Pillow
+napari
